@@ -1,3 +1,3 @@
-# Penguin Foreignn Film Recommendation Website
+# Penguin Foreign Film Recommendation Website
 
 Some description
